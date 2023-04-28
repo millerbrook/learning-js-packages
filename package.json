@@ -1,0 +1,22 @@
+{
+  "name": "learning-packages-in-js",
+  "version": "1.0.0",
+  "description": "Practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/millerbrook/learning-js-packages.git"
+  },
+  "keywords": [
+    "packages"
+  ],
+  "author": "Brook Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/millerbrook/learning-js-packages/issues"
+  },
+  "homepage": "https://github.com/millerbrook/learning-js-packages#readme"
+}
